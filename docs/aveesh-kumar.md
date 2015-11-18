@@ -4,6 +4,8 @@
 
 - I am lazy
 
+- My favorite color is blue
+- 
 - But very willing to learn
 
 Bye
